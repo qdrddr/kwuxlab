@@ -452,7 +452,7 @@ terminal's current directory, while running the commands, is `kwuxlab/ansible`.
 
 ##### Initialize
 
-1. Open a browser, and visit the [Consul UI](http://tsnode1:8200) at
+1. Open a browser, and visit the [Vault UI](http://tsnode1:8200) at
    `http://tsnode1:8200`
    
    You should be greeted with a similar screen to this:
